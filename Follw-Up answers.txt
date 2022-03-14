@@ -1,0 +1,32 @@
+Q) If you had more time, what further improvements or new features would you add?
+Ans) i would like to develop a personal library for card validation, because i found multiple cards but some of them has no types folder and some were not compatible with the latest react. plus i would prefer to also do some validation on nodejs.
+
+Q) Which parts (JS/TS) are you most proud of?
+Ans) well, having experience of around eight year i am proud of both.
+
+Q) Do you have experience with docker?
+Ans) i don't have any experience with docker but i would love to work with docker, if chance given.
+
+Q) Do you have experience with unit testing and end-to-end testing?
+Ans) Yes, i have experience with unit testing and end-to-end testing?
+
+Q) What is the output of the next code, and why?
+for (var i = 0; i < 5; i++) {
+ setTimeout(function() { console.log(i); }, 1000 );
+}
+
+Ans) the output of this code is 
+5
+5
+5
+5
+5 
+because i is declared with var and var is not a block scope.
+
+Q) Iit possible to run mutli task in the same time in javascript? and why?
+Ans) JavaScript isn’t very good at multi tasking, it can only do one thing at a time. But, you can tell it to put something aside for later and do something else in the meantime, with asynchronous functions.
+
+Q) How did you find the test overall? Did you have any issues or have difficulties completing?If you have any suggestions on how we can improve the test, we'd love to hear them
+
+
+Ans) The test was simple, you can improve it by adding some other logical concepts. but overall its a complete test where you can judge someone concepts easiy.
